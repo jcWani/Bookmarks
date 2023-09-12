@@ -1,0 +1,11 @@
+/* Large Smartphone (Vertical) */
+@media screen and (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .btn-delete-bookmark {
+    top: -10%;
+    right: -0.5%;
+  }
+}
